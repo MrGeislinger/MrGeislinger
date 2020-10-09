@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 > I'm some combination of software engineer, data scientist, and teacher. Sprinkle in a physics & math background and you pretty much got me.
 
-### Some other places where I digitally exist:
+### Some other places you can find me:
 
 - LinkedIn: [linkedin.com/in/mrgeislinger](https://www.linkedin.com/in/mrgeislinger/)
 - YouTube: [MrGeislinger](https://www.youtube.com/channel/UCPr9pMzkuMIlSvkxyEv1IoQ)
