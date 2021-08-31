@@ -1,25 +1,19 @@
-## Hey there!
+# Hey there!
 
-<!--
-**MrGeislinger/MrGeislinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Combination of software engineer, teacher, and data scientist. Sprinkle in a physics & math background and you pretty much got me.
 
-Here are some ideas to get you started:
+## Work Stuff
+> * Currently a data scientist at [O'Reilly Media](https://www.oreilly.com/)
+> * Freelancing in data science and technical education opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Other Places You Can Find Me:
 
-> I'm some combination of software engineer, data scientist, and teacher. Sprinkle in a physics & math background and you pretty much got me.
-
-### Some other places you can find me:
-
-- LinkedIn: [linkedin.com/in/mrgeislinger](https://www.linkedin.com/in/mrgeislinger/)
 - YouTube: [MrGeislinger](https://www.youtube.com/channel/UCPr9pMzkuMIlSvkxyEv1IoQ)
+- LinkedIn: [linkedin.com/in/mrgeislinger](https://www.linkedin.com/in/mrgeislinger/)
 - Kaggle: [kaggle.com/mrgeislinger](https://www.kaggle.com/mrgeislinger)
 - Twitter: [@MrGeislinger](https://twitter.com/MrGeislinger)
+
+## More About Me
+
+- ❤️ 🐍 🐼
+- Big on redundancy; (hence my identical twins)
