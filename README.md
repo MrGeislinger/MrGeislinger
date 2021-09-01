@@ -1,4 +1,4 @@
-# Hey there!
+# Hey There!
 
 > Combination of software engineer, teacher, and data scientist. Sprinkle in a physics & math background and you pretty much got me.
 
@@ -9,9 +9,11 @@
 ## Other Places You Can Find Me:
 
 - YouTube: [MrGeislinger](https://www.youtube.com/channel/UCPr9pMzkuMIlSvkxyEv1IoQ)
-- LinkedIn: [linkedin.com/in/mrgeislinger](https://www.linkedin.com/in/mrgeislinger/)
+- Articles on Medium: [mrgeislinger.medium.com/](https://mrgeislinger.medium.com/)
 - Kaggle: [kaggle.com/mrgeislinger](https://www.kaggle.com/mrgeislinger)
 - Twitter: [@MrGeislinger](https://twitter.com/MrGeislinger)
+- LinkedIn: [linkedin.com/in/mrgeislinger](https://www.linkedin.com/in/mrgeislinger/)
+
 
 ## More About Me
 
