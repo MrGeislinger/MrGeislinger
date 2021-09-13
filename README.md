@@ -1,4 +1,4 @@
-# Hey There!
+# Hello There
 
 > Combination of software engineer, teacher, and data scientist. Sprinkle in a physics & math background and you pretty much got me.
 
