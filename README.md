@@ -19,3 +19,4 @@
 
 - ❤️ 🐍 🐼
 - Big on redundancy; (hence my identical twins)
+- Passion for teaching others on better ways to use data
