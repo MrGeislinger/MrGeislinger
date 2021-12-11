@@ -1,10 +1,11 @@
 # Hello There
 
-> Combination of software engineer, teacher, and data scientist. Sprinkle in a physics & math background and you pretty much got me.
+* Currently a **Data Scientist** at [O'Reilly Media](https://www.oreilly.com/)
+* [Coursera Instructor](https://www.coursera.org/instructor/victor)
+* Consulting in data science, machine learning, and technical education opportunities
 
-## Work Stuff
-> * Currently a data scientist at [O'Reilly Media](https://www.oreilly.com/)
-> * Freelancing in data science and technical education opportunities
+
+> Combination of software engineer, teacher, and data scientist. Sprinkle in a physics & math background and you pretty much got me.
 
 ## Other Places You Can Find Me:
 
@@ -13,6 +14,7 @@
 - Kaggle: [kaggle.com/mrgeislinger](https://www.kaggle.com/mrgeislinger)
 - Twitter: [@MrGeislinger](https://twitter.com/MrGeislinger)
 - LinkedIn: [linkedin.com/in/mrgeislinger](https://www.linkedin.com/in/mrgeislinger/)
+- Coursera (Instructor Page): [coursera.org/instructor/victor](https://www.coursera.org/instructor/victor)
 
 
 ## More About Me
