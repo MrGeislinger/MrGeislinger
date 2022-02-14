@@ -22,3 +22,9 @@
 - ❤️ 🐍 🐼
 - Big on redundancy; (hence my identical twins)
 - Passion for teaching others on better ways to use data
+
+
+## Currently Reading
+
+- [*Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd Edition)*](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+- [*Practical Natural Language Processing*](https://www.oreilly.com/library/view/practical-natural-language/9781492054047/)
