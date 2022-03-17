@@ -24,7 +24,7 @@
 - Passion for teaching others on better ways to use data
 
 
-## Currently Reading
+## Currently Reading 📖
 
 - [*Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd Edition)*](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
-- [*Practical Natural Language Processing*](https://www.oreilly.com/library/view/practical-natural-language/9781492054047/)
+- [*Natural Language Processing with Transformers*](https://www.oreilly.com/library/view/natural-language-processing/9781098103231/)
