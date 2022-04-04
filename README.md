@@ -27,4 +27,5 @@
 ## Currently Reading 📖
 
 - [*Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd Edition)*](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
-- [*Natural Language Processing with Transformers*](https://www.oreilly.com/library/view/natural-language-processing/9781098103231/)
+- [*Deep Generative Learning*](https://learning.oreilly.com/library/view/generative-deep-learning/9781492041931/)
+- [*bash Idioms*](https://learning.oreilly.com/library/view/bash-idioms/9781492094746/)
