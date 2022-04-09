@@ -1,6 +1,6 @@
 # Hello There
 
-* Currently a **Data Scientist** at [O'Reilly Media](https://www.oreilly.com/)
+* **Data Scientist** at [O'Reilly Media](https://www.oreilly.com/)
 * [Coursera Instructor](https://www.coursera.org/instructor/victor)
 * Consulting in data science, machine learning, and technical education opportunities
 
