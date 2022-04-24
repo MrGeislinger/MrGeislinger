@@ -28,3 +28,4 @@
 
 - [*Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd Edition)*](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 - [*Cracking the Coding Interview*](https://g.co/kgs/rFNsk9)
+- [*Using Asyncio in Python*](https://learning.oreilly.com/library/view/using-asyncio-in/9781492075325/)
