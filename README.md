@@ -28,3 +28,4 @@
 
 - [*Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd Edition)*](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 - [*Practical Machine Learning for Computer Vision*](https://www.oreilly.com/library/view/practical-machine-learning/9781098102357/)
+- [*Machine Learning Pocket Reference*](https://learning.oreilly.com/library/view/machine-learning-pocket/9781492047537/)
