@@ -26,6 +26,4 @@
 
 ## Currently Reading 📖
 
-
-- [*Practical Machine Learning for Computer Vision*](https://www.oreilly.com/library/view/practical-machine-learning/9781098102357/)
 - [*Fluent Python (2nd Edition)*](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/)
