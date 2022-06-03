@@ -27,3 +27,4 @@
 ## Currently Reading 📖
 
 - [*Fluent Python (2nd Edition)*](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/)
+- [*Architecture Patterns with Python*](https://www.oreilly.com/library/view/architecture-patterns-with/9781492052197/)
