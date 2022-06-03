@@ -27,4 +27,3 @@
 ## Currently Reading 📖
 
 - [*Fluent Python (2nd Edition)*](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/)
-- [*Think Bayes (2nd Edition)*](https://allendowney.github.io/ThinkBayes2/)
