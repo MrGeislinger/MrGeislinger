@@ -28,4 +28,4 @@
 
 - [*Fluent Python (2nd Edition)*](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/)
 - [*Architecture Patterns with Python*](https://www.oreilly.com/library/view/architecture-patterns-with/9781492052197/)
-- [*Fundamentals of Deep Learning (2nd Edition)](https://www.oreilly.com/library/view/fundamentals-of-deep/9781492082170/)
+- [*Fundamentals of Deep Learning (2nd Edition)*](https://www.oreilly.com/library/view/fundamentals-of-deep/9781492082170/)
