@@ -29,3 +29,4 @@
 - [*Fluent Python (2nd Edition)*](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/)
 - [*Practical Simulations for Machine Learning*](https://www.oreilly.com/library/view/practical-simulations-for/9781492089919/)
 - [*Designing Machine Learning Systems*](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
+- [*The Anthropocene Reviewed*](https://anthropocenereviewedbook.com/)
