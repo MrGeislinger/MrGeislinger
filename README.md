@@ -1,6 +1,6 @@
 # Hello There
 
-* Machine Learning Engineer / Data Scientist
+* Machine Learning Engineer / Data Scientist at [Rocketship.vc](https://www.rocketship.vc/)
 * [Coursera Instructor](https://www.coursera.org/instructor/victor)
 * Consulting in data science, machine learning, and technical education opportunities
 
