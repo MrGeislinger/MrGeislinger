@@ -28,3 +28,4 @@
 
 - [*Fluent Python (2nd Edition)*](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/)
 - [*Practical Simulations for Machine Learning*](https://www.oreilly.com/library/view/practical-simulations-for/9781492089919/)
+- [*I Heart Logs*](https://www.oreilly.com/library/view/i-heart-logs/9781491909379/)
