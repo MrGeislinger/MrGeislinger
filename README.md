@@ -28,3 +28,4 @@
 
 - [*Fluent Python (2nd Edition)*](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/)
 - [*Practical Recommender Systems*](https://www.manning.com/books/practical-recommender-systems)
+- [PostgreSQL: Up and Running*](https://www.oreilly.com/library/view/postgresql-up-and/9781449326326/)
