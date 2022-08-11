@@ -29,3 +29,4 @@
 - [*Fluent Python (2nd Edition)*](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/)
 - [*PostgreSQL: Up and Running*](https://www.oreilly.com/library/view/postgresql-up-and/9781449326326/)
 - [*Practical Statistics for Data Scientists (2nd Edition)*](https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/)
+- [*Data Science on AWS*](https://www.oreilly.com/library/view/data-science-on/9781492079385/)
