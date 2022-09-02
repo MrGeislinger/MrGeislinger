@@ -26,7 +26,5 @@
 
 ## Currently Reading 📖
 
-- [*PostgreSQL: Up and Running*](https://www.oreilly.com/library/view/postgresql-up-and/9781449326326/)
 - [*Data Science on AWS*](https://www.oreilly.com/library/view/data-science-on/9781492079385/)
 - [*What We Owe The Future*](https://whatweowethefuture.com/#availableat)
-
