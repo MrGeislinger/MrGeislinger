@@ -28,3 +28,4 @@
 
 - [*Data Science on AWS*](https://www.oreilly.com/library/view/data-science-on/9781492079385/)
 - [*What We Owe The Future*](https://whatweowethefuture.com/#availableat)
+- [*Machine Learning with Python Cookbook*](https://www.oreilly.com/library/view/machine-learning-with/9781491989371/)
