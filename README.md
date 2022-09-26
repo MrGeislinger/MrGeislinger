@@ -27,4 +27,3 @@
 ## Currently Reading 📖
 
 - [*Data Science on AWS*](https://www.oreilly.com/library/view/data-science-on/9781492079385/)
-- [*AI and Machine Learning for Coders*](https://www.oreilly.com/library/view/ai-and-machine/9781492078180/)
