@@ -26,5 +26,4 @@
 
 ## Currently Reading 📖
 
-- [*Data Science on AWS*](https://www.oreilly.com/library/view/data-science-on/9781492079385/)
 - [*Programming PyTorch for Deep Learning*](https://www.oreilly.com/library/view/programming-pytorch-for/9781492045342/)
