@@ -26,5 +26,4 @@
 
 ## Currently Reading 📖
 
-- [*Programming PyTorch for Deep Learning*](https://www.oreilly.com/library/view/programming-pytorch-for/9781492045342/)
 - [*Ultralearning*](https://www.scotthyoung.com/blog/ultralearning/)
