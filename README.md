@@ -27,5 +27,4 @@
 ## Currently Reading 📖
 
 - [*Ultralearning*](https://www.scotthyoung.com/blog/ultralearning/)
-- [*Data Science from Scratch (2nd Edition)*](https://www.oreilly.com/library/view/data-science-from/9781492041122/)
 - [*Deep Learning for Coders with fastai & PyTorch*](https://www.oreilly.com/library/view/deep-learning-for/9781492045519/)
