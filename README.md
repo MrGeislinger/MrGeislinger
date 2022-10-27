@@ -26,5 +26,4 @@
 
 ## Currently Reading 📖
 
-- [*Ultralearning*](https://www.scotthyoung.com/blog/ultralearning/)
 - [*Deep Learning for Coders with fastai & PyTorch*](https://www.oreilly.com/library/view/deep-learning-for/9781492045519/)
