@@ -27,3 +27,4 @@
 ## Currently Reading 📖
 
 - [*Deep Learning for Coders with fastai & PyTorch*](https://www.oreilly.com/library/view/deep-learning-for/9781492045519/)
+- [*Designing Autonomous AI*](https://www.oreilly.com/library/view/designing-autonomous-ai/9781098110741/)
