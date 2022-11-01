@@ -25,5 +25,3 @@
 
 
 ## Currently Reading 📖
-
-- [*Deep Learning for Coders with fastai & PyTorch*](https://www.oreilly.com/library/view/deep-learning-for/9781492045519/)
