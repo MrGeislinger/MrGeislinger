@@ -25,3 +25,5 @@
 
 
 ## Currently Reading 📖
+
+- [*Applied Natural Language Processing in the Enterprise*](https://www.oreilly.com/library/view/applied-natural-language/9781492062561/)
