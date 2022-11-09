@@ -26,4 +26,4 @@
 
 ## Currently Reading 📖
 
-> Need to look at my reading list...
+- [*High Performance Python (2nd Edition)*](https://www.oreilly.com/library/view/high-performance-python/9781492055013/)
