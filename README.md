@@ -27,4 +27,3 @@
 ## Currently Reading 📖
 
 - [*High Performance Python (2nd Edition)*](https://www.oreilly.com/library/view/high-performance-python/9781492055013/)
-- [*Efficient Linux at the Command Line*](https://www.oreilly.com/library/view/efficient-linux-at/9781098113391/)
