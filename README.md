@@ -29,3 +29,4 @@
 
 - [*High Performance Python (2nd Edition)*](https://www.oreilly.com/library/view/high-performance-python/9781492055013/)
 - [*Doing Good Better*](https://www.effectivealtruism.org/doing-good-better)
+- [*80,000 Hours*](https://80000hours.org/book/)
