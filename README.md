@@ -28,4 +28,3 @@
 ## Currently Reading 📖
 
 - [*High Performance Python (2nd Edition)*](https://www.oreilly.com/library/view/high-performance-python/9781492055013/)
-- [*GPT-3: Building Innovative NLP Products Using Large Language Models*](https://g.co/kgs/AE3U5h)
