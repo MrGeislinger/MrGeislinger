@@ -28,3 +28,4 @@
 ## Currently Reading 📖
 
 - [*High Performance Python (2nd Edition)*](https://www.oreilly.com/library/view/high-performance-python/9781492055013/)
+- [*Learning Test-Driven Development*](https://www.oreilly.com/library/view/learning-test-driven-development/9781098106461/)
