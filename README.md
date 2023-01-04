@@ -27,4 +27,4 @@
 
 ## Currently Reading 📖
 
-*Nothing right now; break until after the New Year! 🎉*
+- *[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)*
