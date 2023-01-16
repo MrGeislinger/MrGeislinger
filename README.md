@@ -28,3 +28,4 @@
 ## Currently Reading 📖
 
 - *[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)*
+- *[Algorithms to Live By](https://brianchristian.org/algorithms-to-live-by/)*
