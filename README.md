@@ -28,4 +28,3 @@
 ## Currently Reading 📖
 
 - *[Algorithms to Live By](https://brianchristian.org/algorithms-to-live-by/)*
-- *[Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/)*
