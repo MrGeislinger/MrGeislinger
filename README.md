@@ -10,7 +10,7 @@
 ## Other Places You Can Find Me:
 
 - LinkedIn: [linkedin.com/in/mrgeislinger](https://www.linkedin.com/in/mrgeislinger/)
-- YouTube: [MrGeislinger](https://www.youtube.com/channel/UCPr9pMzkuMIlSvkxyEv1IoQ)
+- YouTube: [MrGeislinger](https://www.youtube.com/@VictorsOtherVector)
 - Articles on Medium: [mrgeislinger.medium.com/](https://mrgeislinger.medium.com/)
 - Twitter: [@MrGeislinger](https://twitter.com/MrGeislinger)
 - Mastodon: [@sigmoid.social/@VictorsOtherVector](https://sigmoid.social/@VictorsOtherVector)
@@ -21,7 +21,7 @@
 ## More About Me
 
 - ❤️ 🐍 🐼
-- Big on redundancy; (hence my identical twins)
+- Big on redundancy (hence my identical twins)
 - Passion for teaching others on better ways to use data
 
 
