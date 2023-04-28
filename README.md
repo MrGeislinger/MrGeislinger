@@ -29,3 +29,4 @@
 
 - *[Building an Anonymization Pipeline](https://www.oreilly.com/library/view/building-an-anonymization/9781492053422/)*
 - *[Practical Fairness](https://www.oreilly.com/library/view/practical-fairness/9781492075721/)*
+- *[Reinforcement Learning](https://www.oreilly.com/library/view/reinforcement-learning/9781492072386/)*
