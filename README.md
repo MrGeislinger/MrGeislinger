@@ -31,4 +31,3 @@
 - *[Practical Fairness](https://www.oreilly.com/library/view/practical-fairness/9781492075721/)*
 - *[Reinforcement Learning](https://www.oreilly.com/library/view/reinforcement-learning/9781492072386/)*
 - *[Weapons of Math Destruction](https://g.co/kgs/E6MPEi)*
-- *[Other Minds](https://us.macmillan.com/books/9780374537197/otherminds)*
