@@ -31,3 +31,4 @@
 - *[Practical Fairness](https://www.oreilly.com/library/view/practical-fairness/9781492075721/)*
 - *[Reinforcement Learning](https://www.oreilly.com/library/view/reinforcement-learning/9781492072386/)*
 - *[Weapons of Math Destruction](https://g.co/kgs/E6MPEi)*
+- *[Generative Deep Learning, 2nd Edition](https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/)*
