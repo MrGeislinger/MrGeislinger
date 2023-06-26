@@ -32,4 +32,3 @@
 - *[Reinforcement Learning](https://www.oreilly.com/library/view/reinforcement-learning/9781492072386/)*
 - *[Weapons of Math Destruction](https://g.co/kgs/E6MPEi)*
 - *[Generative Deep Learning, 2nd Edition](https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/)*
-- *[Hello World: Being Human in the Age of Algorithms](https://hannahfry.co.uk/book/hello-world/)*
