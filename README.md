@@ -33,4 +33,3 @@
 - *[Reinforcement Learning](https://www.oreilly.com/library/view/reinforcement-learning/9781492072386/)*
 - *[Weapons of Math Destruction](https://g.co/kgs/E6MPEi)*
 - *[Generative Deep Learning, 2nd Edition](https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/)*
-- *[What If? 2: Additional Serious Scientific Answers to Absurd Hypothetical Questions](https://xkcd.com/what-if-2/)*
