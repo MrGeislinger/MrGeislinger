@@ -28,6 +28,7 @@
 
 ## Currently Reading 📖
 
+- *[Remarkably Bright Creatures](https://shelbyvanpelt.com/books/remarkably-bright-creatures/)*
 - *[The Candy House](https://jenniferegan.com/books/the-candy-house/)*
 - *[Building an Anonymization Pipeline](https://www.oreilly.com/library/view/building-an-anonymization/9781492053422/)*
 - *[Practical Fairness](https://www.oreilly.com/library/view/practical-fairness/9781492075721/)*
