@@ -35,5 +35,4 @@
 - *[Reinforcement Learning](https://www.oreilly.com/library/view/reinforcement-learning/9781492072386/)*
 - *[Weapons of Math Destruction](https://g.co/kgs/E6MPEi)*
 - *[Nudge: The Final Edition](https://g.co/kgs/413sDf)*
-- *[Arrival (Stories of Your Life and Others)](https://g.co/kgs/mpZEbk)*
 - *[The Making of the Atomic Bomb](https://g.co/kgs/EbTNC9)*
