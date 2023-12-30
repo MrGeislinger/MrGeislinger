@@ -33,5 +33,4 @@
 - *[Practical Fairness](https://www.oreilly.com/library/view/practical-fairness/9781492075721/)*
 - *[Reinforcement Learning](https://www.oreilly.com/library/view/reinforcement-learning/9781492072386/)*
 - *[Weapons of Math Destruction](https://g.co/kgs/E6MPEi)*
-- *[Nudge: The Final Edition](https://g.co/kgs/413sDf)*
 - *[The Making of the Atomic Bomb](https://g.co/kgs/EbTNC9)*
