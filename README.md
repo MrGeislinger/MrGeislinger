@@ -10,11 +10,11 @@
 ## Other Places You Can Find Me:
 
 - LinkedIn: [linkedin.com/in/mrgeislinger](https://www.linkedin.com/in/mrgeislinger/)
-- YouTube: [MrGeislinger](https://www.youtube.com/@VictorsOtherVector)
-- Articles on Medium: [mrgeislinger.medium.com/](https://mrgeislinger.medium.com/)
+- YouTube: [@VictorsOtherVector](https://www.youtube.com/@VictorsOtherVector)
 - Threads: [@VictorsOtherVector](https://www.threads.net/@victorsothervector)
 - Mastodon: [@sigmoid.social/@VictorsOtherVector](https://sigmoid.social/@VictorsOtherVector)
 - Twitter: [@MrGeislinger](https://twitter.com/MrGeislinger)
+- Medium: [victorsothervector.medium.com/](https://victorsothervector.medium.com/)
 - Kaggle: [kaggle.com/mrgeislinger](https://www.kaggle.com/mrgeislinger)
 - Coursera (Instructor Page): [coursera.org/instructor/victor](https://www.coursera.org/instructor/victor)
 
