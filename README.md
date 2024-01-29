@@ -28,6 +28,5 @@
 
 ## Currently Reading 📖
 
-- *[Practical Fairness](https://www.oreilly.com/library/view/practical-fairness/9781492075721/)*
 - *[Reinforcement Learning](https://www.oreilly.com/library/view/reinforcement-learning/9781492072386/)*
 - *[The Making of the Atomic Bomb](https://g.co/kgs/EbTNC9)*
