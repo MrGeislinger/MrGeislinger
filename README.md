@@ -30,3 +30,4 @@
 
 - *[Reinforcement Learning](https://www.oreilly.com/library/view/reinforcement-learning/9781492072386/)*
 - *[The Making of the Atomic Bomb](https://g.co/kgs/EbTNC9)*
+- *[The Little Book of Deep Learning](https://fleuret.org/francois/lbdl.html)*
