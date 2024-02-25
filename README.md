@@ -31,3 +31,4 @@
 - *[Reinforcement Learning](https://www.oreilly.com/library/view/reinforcement-learning/9781492072386/)*
 - *[The Making of the Atomic Bomb](https://g.co/kgs/EbTNC9)*
 - *[Swearing is Good for You](https://g.co/kgs/UtaH5QL)*
+- *[Humble Pi](https://g.co/kgs/gyv9kXp)*
