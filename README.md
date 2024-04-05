@@ -32,4 +32,3 @@
 - *[The Making of the Atomic Bomb](https://g.co/kgs/EbTNC9)*
 - *[High Performance Computing: RISC Architectures, Optimizations & Benchmarks](https://www.google.com/books/edition/High_Performance_Computing/xok_AQAAIAAJ?hl=en)*
 - *[Acoustic and Auditory Phonetics](https://g.co/kgs/ZK9iGYN)*
-- *[In the Land of Invented Languages](https://g.co/kgs/mxF92T7)*
