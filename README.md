@@ -1,11 +1,12 @@
 # Hello There
 
-* Machine Learning Engineer / Data Scientist (open for work!)
-* [Coursera Instructor](https://www.coursera.org/instructor/victor)
+> Combination of machine learning engineer / data scientist and teacher (depending on what hat I'm wearing that day).
+
+* Machine Learning Engineer / Data Scientist (Now at Google)
 * Consulting in data science, machine learning, and technical education opportunities
+  - [Coursera Instructor](https://www.coursera.org/instructor/victor)
+  - [Udacity - GenAI Nanodegree](https://www.udacity.com/course/generative-ai--nd608)
 
-
-> Combination of software engineer, teacher, and data scientist. Sprinkle in a physics & math background and you pretty much got me.
 
 ## Other Places You Can Find Me:
 
