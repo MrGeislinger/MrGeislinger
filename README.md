@@ -10,14 +10,21 @@
 
 ## Other Places You Can Find Me:
 
-- LinkedIn: [linkedin.com/in/mrgeislinger](https://www.linkedin.com/in/mrgeislinger/)
-- YouTube: [@VictorsOtherVector](https://www.youtube.com/@VictorsOtherVector)
-- Threads: [@VictorsOtherVector](https://www.threads.net/@victorsothervector)
-- Mastodon: [@sigmoid.social/@VictorsOtherVector](https://sigmoid.social/@VictorsOtherVector)
-- Twitter: [@MrGeislinger](https://twitter.com/MrGeislinger)
-- Medium: [victorsothervector.medium.com/](https://victorsothervector.medium.com/)
-- Kaggle: [kaggle.com/mrgeislinger](https://www.kaggle.com/mrgeislinger)
-- Coursera (Instructor Page): [coursera.org/instructor/victor](https://www.coursera.org/instructor/victor)
+* Thoughts
+  - Website: [VictorsOtherVector.com](https://www.victorsothervector.com/)
+  - Newsletter: [Victor's Other Vector on Substack](https://victorsothervector.substack.com/)
+  - Medium: [victorsothervector.medium.com](https://victorsothervector.medium.com/)
+* Socials
+  - Threads: [@VictorsOtherVector](https://www.threads.net/@victorsothervector)
+  - LinkedIn: [linkedin.com/in/mrgeislinger](https://www.linkedin.com/in/mrgeislinger/)
+  - Mastodon: [@sigmoid.social/@VictorsOtherVector](https://sigmoid.social/@VictorsOtherVector)
+  - BlueSky: [@victorsothervector.bsky.social](https://bsky.app/profile/victorsothervector.bsky.social)
+  - Twitter: [@MrGeislinger](https://twitter.com/MrGeislinger)
+* Teaching
+  - YouTube: [@VictorsOtherVector](https://www.youtube.com/@VictorsOtherVector)
+  - Coursera (Instructor Page): [coursera.org/instructor/victor](https://www.coursera.org/instructor/victor)
+  - Kaggle: [kaggle.com/mrgeislinger](https://www.kaggle.com/mrgeislinger)
+
 
 
 ## More About Me
