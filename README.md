@@ -38,4 +38,3 @@
 
 - *[The Making of the Atomic Bomb](https://g.co/kgs/EbTNC9)*
 - *[High Performance Computing: RISC Architectures, Optimizations & Benchmarks](https://www.google.com/books/edition/High_Performance_Computing/xok_AQAAIAAJ?hl=en)*
-- *[Pests: How Humans Create Animal Villains](https://g.co/kgs/wp8P8Ao)
