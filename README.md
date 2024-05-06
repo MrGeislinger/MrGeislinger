@@ -38,4 +38,3 @@
 
 - *[The Making of the Atomic Bomb](https://g.co/kgs/EbTNC9)*
 - *[High Performance Computing: RISC Architectures, Optimizations & Benchmarks](https://www.google.com/books/edition/High_Performance_Computing/xok_AQAAIAAJ?hl=en)*
-- *[Learning Helm](https://g.co/kgs/nWdfWWV)*
