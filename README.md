@@ -38,6 +38,5 @@
 
 - *[The Making of the Atomic Bomb](https://g.co/kgs/EbTNC9)*
 - *[High Performance Computing: RISC Architectures, Optimizations & Benchmarks](https://www.google.com/books/edition/High_Performance_Computing/xok_AQAAIAAJ?hl=en)*
-- *[In Praise of Profanity](https://g.co/kgs/pZYU7it)*
 - *[Observability Engineering](https://g.co/kgs/qm9y2Hu)*
 - *[The Molecule of More](https://g.co/kgs/KMdF2iP)*
