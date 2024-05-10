@@ -40,3 +40,4 @@
 - *[High Performance Computing: RISC Architectures, Optimizations & Benchmarks](https://www.google.com/books/edition/High_Performance_Computing/xok_AQAAIAAJ?hl=en)*
 - *[Observability Engineering](https://g.co/kgs/qm9y2Hu)*
 - *[The Molecule of More](https://g.co/kgs/KMdF2iP)*
+- *[Math in Drag](https://g.co/kgs/1KtA4Ya)*
