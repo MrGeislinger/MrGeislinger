@@ -39,4 +39,3 @@
 - *[The Making of the Atomic Bomb](https://g.co/kgs/EbTNC9)*
 - *[High Performance Computing: RISC Architectures, Optimizations & Benchmarks](https://www.google.com/books/edition/High_Performance_Computing/xok_AQAAIAAJ?hl=en)*
 - *[Observability Engineering](https://g.co/kgs/qm9y2Hu)*
-- *[Math in Drag](https://g.co/kgs/1KtA4Ya)*
