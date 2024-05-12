@@ -40,4 +40,3 @@
 - *[High Performance Computing: RISC Architectures, Optimizations & Benchmarks](https://www.google.com/books/edition/High_Performance_Computing/xok_AQAAIAAJ?hl=en)*
 - *[Observability Engineering](https://g.co/kgs/qm9y2Hu)*
 - *[Math in Drag](https://g.co/kgs/1KtA4Ya)*
-- *[Lurking: How a Person Became a User](https://g.co/kgs/FQpv6C2)*
