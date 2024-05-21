@@ -38,3 +38,4 @@
 
 - *[The Making of the Atomic Bomb](https://g.co/kgs/EbTNC9)*
 - *[High Performance Computing: RISC Architectures, Optimizations & Benchmarks](https://www.google.com/books/edition/High_Performance_Computing/xok_AQAAIAAJ?hl=en)*
+- *[The Data Detective: Ten Easy Rules to Make Sense of Statistics](https://g.co/kgs/XbPu5aR)*
