@@ -38,4 +38,3 @@
 
 - *[The Making of the Atomic Bomb](https://g.co/kgs/EbTNC9)*
 - *[High Performance Computing: RISC Architectures, Optimizations & Benchmarks](https://www.google.com/books/edition/High_Performance_Computing/xok_AQAAIAAJ?hl=en)*
-- *[How to Walk on Water and Climb Up Walls: Animal Movement and the Robots of the Future](https://g.co/kgs/eiXHo1r)*
