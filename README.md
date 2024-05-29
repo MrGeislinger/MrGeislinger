@@ -38,7 +38,6 @@
 
 - *[The Making of the Atomic Bomb](https://g.co/kgs/EbTNC9)*
 - *[High Performance Computing: RISC Architectures, Optimizations & Benchmarks](https://www.google.com/books/edition/High_Performance_Computing/xok_AQAAIAAJ?hl=en)*
-- *[Dune Messiah](https://g.co/kgs/CAhFii5)*
 - *[How to Read a Book Revised and Updated Edition](https://g.co/kgs/soaXy5J)*
 
 
