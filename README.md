@@ -38,7 +38,6 @@
 
 - *[The Making of the Atomic Bomb](https://g.co/kgs/EbTNC9)*
 - *[High Performance Computing: RISC Architectures, Optimizations & Benchmarks](https://www.google.com/books/edition/High_Performance_Computing/xok_AQAAIAAJ?hl=en)*
-- *[The Ascent of Information: Books, Bits, Genes, Machines, and Life's Unending Algorithm](https://g.co/kgs/5CzayGu)*
 - *[Children of Dune](https://g.co/kgs/XWhrS4c)*
 
 
