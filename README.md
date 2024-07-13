@@ -39,6 +39,7 @@
 - *[The Making of the Atomic Bomb](https://g.co/kgs/EbTNC9)*
 - *[High Performance Computing: RISC Architectures, Optimizations & Benchmarks](https://www.google.com/books/edition/High_Performance_Computing/xok_AQAAIAAJ?hl=en)*
 - *[God Created the Integers](https://g.co/kgs/aBJUohW)*
+- *[A Mind For Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)](https://g.co/kgs/qx1sEjm)*
 
 
 [![](https://www.victorsothervector.com/books/index_files/figure-html/fig-total-reading-time-current-year-output-1.png)](https://www.victorsothervector.com/books/)
