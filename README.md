@@ -39,7 +39,6 @@
 - *[The Making of the Atomic Bomb](https://g.co/kgs/EbTNC9)*
 - *[God Created the Integers](https://g.co/kgs/aBJUohW)*
 - *[I Contain Multitudes: The Microbes Within Us and a Grander View of Life](https://g.co/kgs/ngiBsQZ)*
-- *[The Age of AI: And Our Human Future](https://g.co/kgs/G3a2WUA)*
 
 
 [![](https://www.victorsothervector.com/books/index_files/figure-html/fig-total-reading-time-current-year-output-1.png)](https://www.victorsothervector.com/books/)
