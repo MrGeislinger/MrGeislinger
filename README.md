@@ -39,7 +39,6 @@
 - *[The Making of the Atomic Bomb](https://g.co/kgs/EbTNC9)*
 - *[God Created the Integers](https://g.co/kgs/aBJUohW)*
 - *[I Contain Multitudes: The Microbes Within Us and a Grander View of Life](https://g.co/kgs/ngiBsQZ)*
-- *[Animoprhs: #02 The Visitor](https://g.co/kgs/ktMSWZ4)
 
 [![](https://www.victorsothervector.com/books/index_files/figure-html/fig-total-reading-time-current-year-output-1.png)](https://www.victorsothervector.com/books/)
 *Reading for the current year*
