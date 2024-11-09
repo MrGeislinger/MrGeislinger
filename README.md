@@ -15,11 +15,11 @@
   - Newsletter: [Victor's Other Vector on Substack](https://victorsothervector.substack.com/)
   - Medium: [victorsothervector.medium.com](https://victorsothervector.medium.com/)
 * Socials
+  - BlueSky: [@victorsothervector.bsky.social](https://bsky.app/profile/victorsothervector.bsky.social)
   - Threads: [@VictorsOtherVector](https://www.threads.net/@victorsothervector)
   - LinkedIn: [linkedin.com/in/mrgeislinger](https://www.linkedin.com/in/mrgeislinger/)
   - Mastodon: [@sigmoid.social/@VictorsOtherVector](https://sigmoid.social/@VictorsOtherVector)
-  - BlueSky: [@victorsothervector.bsky.social](https://bsky.app/profile/victorsothervector.bsky.social)
-  - Twitter: [@MrGeislinger](https://twitter.com/MrGeislinger)
+  - ~Twitter: [@MrGeislinger](https://twitter.com/MrGeislinger)~
 * Teaching
   - YouTube: [@VictorsOtherVector](https://www.youtube.com/@VictorsOtherVector)
   - Coursera (Instructor Page): [coursera.org/instructor/victor](https://www.coursera.org/instructor/victor)
