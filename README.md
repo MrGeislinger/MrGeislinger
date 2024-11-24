@@ -40,7 +40,6 @@
 - *[God Created the Integers](https://g.co/kgs/aBJUohW)*
 - *[I Contain Multitudes: The Microbes Within Us and a Grander View of Life](https://g.co/kgs/ngiBsQZ)*
 - *[Outlive: The Science and Art of Longevity](https://g.co/kgs/t2W7npC)*
-- *[Animorphs #13: The Change](https://g.co/kgs/HkZqmwR)*
 - *[Animorphs #13.5: The Andalite Chronicles](https://g.co/kgs/sxM418w)*
 
 
