@@ -15,7 +15,7 @@
   - Newsletter: [Victor's Other Vector on Substack](https://victorsothervector.substack.com/)
   - Medium: [victorsothervector.medium.com](https://victorsothervector.medium.com/)
 * Socials
-  - BlueSky: [@victorsothervector.bsky.social](https://bsky.app/profile/victorsothervector.bsky.social)
+  - BlueSky: [@VictorsVector.com](https://bsky.app/profile/did:plc:jfda6xfy4ncaf72omkvrbkko)
   - Threads: [@VictorsOtherVector](https://www.threads.net/@victorsothervector)
   - LinkedIn: [linkedin.com/in/mrgeislinger](https://www.linkedin.com/in/mrgeislinger/)
   - Mastodon: [@sigmoid.social/@VictorsOtherVector](https://sigmoid.social/@VictorsOtherVector)
