@@ -41,6 +41,7 @@
 - *[I Contain Multitudes: The Microbes Within Us and a Grander View of Life](https://g.co/kgs/ngiBsQZ)*
 - *[Outlive: The Science and Art of Longevity](https://g.co/kgs/t2W7npC)*
 - *[The Rise of Endymion](https://g.co/kgs/gmV2MX1)*
+- *[Animorphs #18.5: Megamorphs #2 - In the Time of Dinosaurs](https://g.co/kgs/utY3qcs)*
 
 
 [![](https://www.victorsothervector.com/books/index_files/figure-html/fig-total-reading-time-current-year-output-1.png)](https://www.victorsothervector.com/books/)
