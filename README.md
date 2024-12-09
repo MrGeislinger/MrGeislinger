@@ -40,7 +40,6 @@
 - *[God Created the Integers](https://g.co/kgs/aBJUohW)*
 - *[I Contain Multitudes: The Microbes Within Us and a Grander View of Life](https://g.co/kgs/ngiBsQZ)*
 - *[Outlive: The Science and Art of Longevity](https://g.co/kgs/t2W7npC)*
-- *[Animorphs #22.5: The Hork-Bajir Chronicles](https://g.co/kgs/6TBWhZt)*
 
 
 [![](https://www.victorsothervector.com/books/index_files/figure-html/fig-total-reading-time-current-year-output-1.png)](https://www.victorsothervector.com/books/)
