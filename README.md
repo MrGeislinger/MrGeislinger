@@ -40,6 +40,7 @@
 - *[God Created the Integers](https://g.co/kgs/aBJUohW)*
 - *[Data and Reality, 2nd Edition](https://g.co/kgs/51xoz8Q)*
 - *[The Way of Kings](https://g.co/kgs/Hyw3sBC)*
+- *[Like, Literally, Dude: Arguing for the Good in Bad English](https://g.co/kgs/T51HTV3)*
 
 
 [![](https://www.victorsothervector.com/books/index_files/figure-html/fig-total-reading-time-current-year-output-1.png)](https://www.victorsothervector.com/books/)
