@@ -40,6 +40,7 @@
 - *[God Created the Integers](https://g.co/kgs/aBJUohW)*
 - *[Data and Reality, 2nd Edition](https://g.co/kgs/51xoz8Q)*
 - *[The Way of Kings](https://g.co/kgs/Hyw3sBC)*
+- *[Refactoring at Scale](https://g.co/kgs/AuiJWU9)*
 
 
 [![](https://www.victorsothervector.com/books/index_files/figure-html/fig-total-reading-time-current-year-output-1.png)](https://www.victorsothervector.com/books/)
