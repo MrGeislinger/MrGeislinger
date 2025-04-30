@@ -41,6 +41,7 @@
 - *[Data and Reality, 2nd Edition](https://g.co/kgs/51xoz8Q)*
 - *[The Way of Kings](https://g.co/kgs/Hyw3sBC)*
 - *[Microservices: Up and Running](https://g.co/kgs/BmoLmaF)*
+- *[Machine Learning Production Systems: Engineering Machine Learning Models and Pipelines](https://g.co/kgs/27H7nQW)*
 
 
 [![](https://www.victorsothervector.com/books/index_files/figure-html/fig-total-reading-time-current-year-output-1.png)](https://www.victorsothervector.com/books/)
