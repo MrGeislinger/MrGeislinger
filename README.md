@@ -42,7 +42,6 @@
 - *[The Way of Kings](https://g.co/kgs/Hyw3sBC)*
 - *[Microservices: Up and Running](https://g.co/kgs/BmoLmaF)*
 - *[Machine Learning Production Systems: Engineering Machine Learning Models and Pipelines](https://g.co/kgs/27H7nQW)*
-- *[Coders: The Making of a New Tribe and the Remaking of the World](https://g.co/kgs/JfL323i)*
 
 
 [![](https://www.victorsothervector.com/books/index_files/figure-html/fig-total-reading-time-current-year-output-1.png)](https://www.victorsothervector.com/books/)
