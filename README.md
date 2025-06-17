@@ -41,6 +41,8 @@
 - *[Data and Reality, 2nd Edition](https://g.co/kgs/51xoz8Q)*
 - *[The Way of Kings](https://g.co/kgs/Hyw3sBC)*
 - *[All These Worlds (Bobiverse #3)](https://g.co/kgs/2XGZrmQ)*
+- *[The AI Mirror: How to Reclaim Our Humanity in an Age of Machine Thinking](https://g.co/kgs/MPnPmHU)*
+
 
 [![](https://www.victorsothervector.com/books/index_files/figure-html/fig-total-reading-time-current-year-output-1.png)](https://www.victorsothervector.com/books/)
 *Reading for the current year*
