@@ -41,6 +41,7 @@
 - *[Data and Reality, 2nd Edition](https://g.co/kgs/51xoz8Q)*
 - *[The Way of Kings](https://g.co/kgs/Hyw3sBC)*
 - *[The AI Mirror: How to Reclaim Our Humanity in an Age of Machine Thinking](https://g.co/kgs/MPnPmHU)*
+- *[Why Wakanda Matters: What Black Panther Reveals About Psychology, Identity, and Communication](https://g.co/kgs/K2qseZi)*
 
 
 [![](https://www.victorsothervector.com/books/index_files/figure-html/fig-total-reading-time-current-year-output-1.png)](https://www.victorsothervector.com/books/)
