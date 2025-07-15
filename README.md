@@ -42,7 +42,6 @@
 - *[The Way of Kings](https://g.co/kgs/Hyw3sBC)*
 - *[The AI Mirror: How to Reclaim Our Humanity in an Age of Machine Thinking](https://g.co/kgs/MPnPmHU)*
 - *[Gesture: A Slim Guide](https://g.co/kgs/kJvcTTF)*
-- *[Heaven's River: (Bobiverse #4)](https://g.co/kgs/ZPQBVDZ)*
 
 
 [![](https://www.victorsothervector.com/books/index_files/figure-html/fig-total-reading-time-current-year-output-1.png)](https://www.victorsothervector.com/books/)
