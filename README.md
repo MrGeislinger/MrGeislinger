@@ -40,7 +40,6 @@
 - *[God Created the Integers](https://g.co/kgs/aBJUohW)*
 - *[Data and Reality, 2nd Edition](https://g.co/kgs/51xoz8Q)*
 - *[The Way of Kings](https://g.co/kgs/Hyw3sBC)*
-- *[The AI Mirror: How to Reclaim Our Humanity in an Age of Machine Thinking](https://g.co/kgs/MPnPmHU)*
 - *[Gesture: A Slim Guide](https://g.co/kgs/kJvcTTF)*
 
 
