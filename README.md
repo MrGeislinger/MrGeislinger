@@ -41,7 +41,6 @@
 - *[Data and Reality, 2nd Edition](https://g.co/kgs/51xoz8Q)*
 - *[The Way of Kings](https://g.co/kgs/Hyw3sBC)*
 - *[Gesture: A Slim Guide](https://g.co/kgs/kJvcTTF)*
-- *[Be the Parent, Please: Stop Banning Seesaws and Start Banning Snapchat: Strategies for Solving the Real Parenting Problems](https://share.google/qTdpXOB78S98OHRP7)*
 
 
 [![](https://www.victorsothervector.com/books/index_files/figure-html/fig-total-reading-time-current-year-output-1.png)](https://www.victorsothervector.com/books/)
