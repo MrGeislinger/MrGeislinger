@@ -42,7 +42,6 @@
 - *[The Way of Kings](https://g.co/kgs/Hyw3sBC)*
 - *[Gesture: A Slim Guide](https://g.co/kgs/kJvcTTF)*
 - *[Learning the vi and Vim Editors, 8th Edition](https://share.google/5HzRfu6nN1RwEBWpA)*
-- *[Midnight Sun](https://share.google/8qG0MGd7qTAetlMwx)*
 
 
 [![](https://www.victorsothervector.com/books/index_files/figure-html/fig-total-reading-time-current-year-output-1.png)](https://www.victorsothervector.com/books/)
