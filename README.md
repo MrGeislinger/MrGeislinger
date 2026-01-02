@@ -38,7 +38,6 @@
 
 - *[The Making of the Atomic Bomb](https://g.co/kgs/EbTNC9)*
 - *[God Created the Integers](https://g.co/kgs/aBJUohW)*
-- *[Data and Reality, 2nd Edition](https://g.co/kgs/51xoz8Q)*
 - *[The Way of Kings](https://g.co/kgs/Hyw3sBC)*
 - *[Learning the vi and Vim Editors, 8th Edition](https://share.google/5HzRfu6nN1RwEBWpA)*
 
