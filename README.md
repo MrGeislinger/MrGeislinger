@@ -39,7 +39,6 @@
 - *[The Making of the Atomic Bomb](https://g.co/kgs/EbTNC9)*
 - *[God Created the Integers](https://g.co/kgs/aBJUohW)*
 - *[The Way of Kings](https://g.co/kgs/Hyw3sBC)*
-- *[Learning the vi and Vim Editors, 8th Edition](https://share.google/5HzRfu6nN1RwEBWpA)*
 
 
 [![](https://www.victorsothervector.com/books/index_files/figure-html/fig-total-reading-time-current-year-output-1.png)](https://www.victorsothervector.com/books/)
