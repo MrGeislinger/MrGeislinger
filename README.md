@@ -39,6 +39,7 @@
 - *[The Making of the Atomic Bomb](https://g.co/kgs/EbTNC9)*
 - *[God Created the Integers](https://g.co/kgs/aBJUohW)*
 - *[The Way of Kings](https://g.co/kgs/Hyw3sBC)*
+- *[The Sirens' Call: How Attention Became the World's Most Endangered Resource](https://share.google/68Ob3OGKk7ulMkgmS)*
 
 
 [![](https://www.victorsothervector.com/books/index_files/figure-html/fig-total-reading-time-current-year-output-1.png)](https://www.victorsothervector.com/books/)
