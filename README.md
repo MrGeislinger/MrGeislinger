@@ -40,7 +40,6 @@
 - *[God Created the Integers](https://g.co/kgs/aBJUohW)*
 - *[The Way of Kings](https://g.co/kgs/Hyw3sBC)*
 - *[There Is No Antimemetics Division](https://share.google/DhqDGBckfa2CTtVTb)*
-- *[The Short Second Life of Bree Tanner](https://share.google/ncxWcfuXQKTKnKKRa)*
 
 
 [![](https://www.victorsothervector.com/books/index_files/figure-html/fig-total-reading-time-current-year-output-1.png)](https://www.victorsothervector.com/books/)
