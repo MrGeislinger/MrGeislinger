@@ -41,6 +41,7 @@
 - *[The Way of Kings](https://g.co/kgs/Hyw3sBC)*
 - *[The Sirens' Call: How Attention Became the World's Most Endangered Resource](https://share.google/68Ob3OGKk7ulMkgmS)*
 - *[What is Intelligence? Lessons from Al About Evolution, Computing, and Minds](https://whatisintelligence.antikythera.org/)*
+- *[Life and Death: Twilight Reimagined](https://share.google/IZwxNd0hiHOVu71lF)*
 
 
 [![](https://www.victorsothervector.com/books/index_files/figure-html/fig-total-reading-time-current-year-output-1.png)](https://www.victorsothervector.com/books/)
