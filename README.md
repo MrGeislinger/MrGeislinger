@@ -39,7 +39,6 @@
 - *[The Making of the Atomic Bomb](https://g.co/kgs/EbTNC9)*
 - *[God Created the Integers](https://g.co/kgs/aBJUohW)*
 - *[The Way of Kings](https://g.co/kgs/Hyw3sBC)*
-- *[The Sirens' Call: How Attention Became the World's Most Endangered Resource](https://share.google/68Ob3OGKk7ulMkgmS)*
 - *[What is Intelligence? Lessons from Al About Evolution, Computing, and Minds](https://whatisintelligence.antikythera.org/)*
 - *[Palo Alto: A History of California, Capitalism, and the World](https://share.google/l5mWoS2SCrBRlA7ZK)*
 
