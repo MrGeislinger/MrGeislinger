@@ -41,7 +41,6 @@
 - *[The Way of Kings](https://g.co/kgs/Hyw3sBC)*
 - *[What is Intelligence? Lessons from Al About Evolution, Computing, and Minds](https://whatisintelligence.antikythera.org/)*
 - *[Palo Alto: A History of California, Capitalism, and the World](https://share.google/l5mWoS2SCrBRlA7ZK)*
-- *[If Anyone Builds It, Everyone Dies](https://share.google/20I310XxhEZ39XRge)*
 
 
 [![](https://www.victorsothervector.com/books/index_files/figure-html/fig-total-reading-time-current-year-output-1.png)](https://www.victorsothervector.com/books/)
