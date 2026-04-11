@@ -41,6 +41,7 @@
 - *[The Way of Kings](https://g.co/kgs/Hyw3sBC)*
 - *[What is Intelligence? Lessons from Al About Evolution, Computing, and Minds](https://whatisintelligence.antikythera.org/)*
 - *[Palo Alto: A History of California, Capitalism, and the World](https://share.google/l5mWoS2SCrBRlA7ZK)*
+- *[Shady Characters: The Secret Life Of Punctation, Symbols And Other Typographical](https://share.google/SchQnxxoZTbeG3NB5)*
 
 [![](https://www.victorsothervector.com/books/index_files/figure-html/fig-total-reading-time-current-year-output-1.png)](https://www.victorsothervector.com/books/)
 *Reading for the current year*
