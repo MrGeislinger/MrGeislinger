@@ -42,6 +42,7 @@
 - *[What is Intelligence? Lessons from Al About Evolution, Computing, and Minds](https://whatisintelligence.antikythera.org/)*
 - *[Palo Alto: A History of California, Capitalism, and the World](https://share.google/l5mWoS2SCrBRlA7ZK)*
 - *[Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism](https://share.google/2n9A2jshqX0k2uA1r)*
+- *[The Martian](https://share.google/yD5uny5jA16AlTpUT)*
 
 
 [![](https://www.victorsothervector.com/books/index_files/figure-html/fig-total-reading-time-current-year-output-1.png)](https://www.victorsothervector.com/books/)
