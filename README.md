@@ -41,6 +41,7 @@
 - *[The Way of Kings](https://g.co/kgs/Hyw3sBC)*
 - *[What is Intelligence? Lessons from Al About Evolution, Computing, and Minds](https://whatisintelligence.antikythera.org/)*
 - *[Palo Alto: A History of California, Capitalism, and the World](https://share.google/l5mWoS2SCrBRlA7ZK)*
+- *[More Everything Forever: AI Overlords, Space Empires, and Silicon Valley's Crusade to Control the Fate of Humanity](https://share.google/YX0OKUQeP8Z1Zx8qu)
 
 
 [![](https://www.victorsothervector.com/books/index_files/figure-html/fig-total-reading-time-current-year-output-1.png)](https://www.victorsothervector.com/books/)
