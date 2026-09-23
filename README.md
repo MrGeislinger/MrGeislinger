@@ -41,7 +41,6 @@
 - *[The Way of Kings](https://g.co/kgs/Hyw3sBC)*
 - *[What is Intelligence? Lessons from Al About Evolution, Computing, and Minds](https://whatisintelligence.antikythera.org/)*
 - *[Palo Alto: A History of California, Capitalism, and the World](https://share.google/l5mWoS2SCrBRlA7ZK)*
-- *[More Everything Forever: AI Overlords, Space Empires, and Silicon Valley's Crusade to Control the Fate of Humanity](https://share.google/YX0OKUQeP8Z1Zx8qu)*
 - *[Dark Archives: A Librarian's Investigation Into the Science and History of Books Bound in Human Skin](https://share.google/VFeKsDRv4trwyXqY1)*
 
 
