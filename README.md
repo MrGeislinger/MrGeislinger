@@ -43,6 +43,7 @@
 - *[Palo Alto: A History of California, Capitalism, and the World](https://share.google/l5mWoS2SCrBRlA7ZK)*
 - *[Dark Archives: A Librarian's Investigation Into the Science and History of Books Bound in Human Skin](https://share.google/VFeKsDRv4trwyXqY1)*
 - *[Foundation](https://share.google/cQ8BZbs5V6qhjwJE6)*
+- *[Wool (Silo #1)](https://share.google/7PbSw3QOczObwaOdz)*
 
 
 [![](https://www.victorsothervector.com/books/index_files/figure-html/fig-total-reading-time-current-year-output-1.png)](https://www.victorsothervector.com/books/)
